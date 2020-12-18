@@ -1,0 +1,6 @@
+D:\DrewsMusicShop\DrewsMusicShop.Entity\bin\Debug\DrewsMusicShop.Entity.dll
+D:\DrewsMusicShop\DrewsMusicShop.Entity\bin\Debug\DrewsMusicShop.Entity.pdb
+D:\DrewsMusicShop\DrewsMusicShop.Entity\obj\Debug\DrewsMusicShop.Entity.csprojAssemblyReference.cache
+D:\DrewsMusicShop\DrewsMusicShop.Entity\obj\Debug\DrewsMusicShop.Entity.csproj.CoreCompileInputs.cache
+D:\DrewsMusicShop\DrewsMusicShop.Entity\obj\Debug\DrewsMusicShop.Entity.dll
+D:\DrewsMusicShop\DrewsMusicShop.Entity\obj\Debug\DrewsMusicShop.Entity.pdb
