@@ -10,11 +10,12 @@ exports.AppComponent = void 0;
 var core_1 = require("@angular/core");
 var AppComponent = /** @class */ (function () {
     function AppComponent() {
+        this.name = 'Angular';
     }
     AppComponent = __decorate([
         core_1.Component({
             selector: 'my-app',
-            template: "./app-component.html",
+            templateUrl: "./app.component.html",
         })
     ], AppComponent);
     return AppComponent;

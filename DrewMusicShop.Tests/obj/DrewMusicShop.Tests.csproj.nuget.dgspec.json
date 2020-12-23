@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\github\\DrewBDeRuiter\\DrewMusicShop\\DrewMusicShop.Tests\\DrewMusicShop.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\github\\DrewBDeRuiter\\DrewMusicShop\\DrewMusicShop.Tests\\DrewMusicShop.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\github\\DrewBDeRuiter\\DrewMusicShop\\DrewMusicShop.Tests\\DrewMusicShop.Tests.csproj",
+        "projectName": "DrewMusicShop.Tests",
+        "projectPath": "D:\\github\\DrewBDeRuiter\\DrewMusicShop\\DrewMusicShop.Tests\\DrewMusicShop.Tests.csproj",
+        "packagesPath": "C:\\Users\\drewb\\.nuget\\packages\\",
+        "outputPath": "D:\\github\\DrewBDeRuiter\\DrewMusicShop\\DrewMusicShop.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\drewb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

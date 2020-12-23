@@ -26,7 +26,7 @@ namespace DrewsMusicShop
             GlobalConfiguration.Configure(WebApiConfig.Register);
             var builder = new ContainerBuilder();
 
-            // Register your MVC controllers. (MvcApplication is the name of
+           /* // Register your MVC controllers. (MvcApplication is the name of
             // the class in Global.asax.)
             builder.RegisterControllers(typeof(MvcApplication).Assembly);
 
@@ -45,6 +45,7 @@ namespace DrewsMusicShop
 
             jsonFormatter.SerializerSettings.ContractResolver =
                 new CamelCasePropertyNamesContractResolver();
+		*/
         }
     }
 }

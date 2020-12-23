@@ -7,9 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrewsMusicShop.Data", "Drew
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrewsMusicShop.Entity", "DrewsMusicShop.Entity\DrewsMusicShop.Entity.csproj", "{DF5EDDE0-7ED2-49F6-9CD1-21322A06DC8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrewsMusicShop.Service", "DrewsMusicShop.Service\DrewsMusicShop.Service.csproj", "{6285BB06-8D72-4FDC-8AC5-4B27D1F0FCB8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrewsMusicShop.Common", "DrewsMusicShop.Service\DrewsMusicShop.Common.csproj", "{6285BB06-8D72-4FDC-8AC5-4B27D1F0FCB8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrewsMusicShop.Web", "DrewsMusicShop.Web\DrewsMusicShop.Web.csproj", "{5F3FB0BF-5ADF-401A-AF5A-0C7E37DCE013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrewMusicShop.Tests", "DrewMusicShop.Tests\DrewMusicShop.Tests.csproj", "{09FDDB80-43BF-4A9F-A9B8-1CB6B7D63494}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5F3FB0BF-5ADF-401A-AF5A-0C7E37DCE013}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F3FB0BF-5ADF-401A-AF5A-0C7E37DCE013}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F3FB0BF-5ADF-401A-AF5A-0C7E37DCE013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09FDDB80-43BF-4A9F-A9B8-1CB6B7D63494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09FDDB80-43BF-4A9F-A9B8-1CB6B7D63494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09FDDB80-43BF-4A9F-A9B8-1CB6B7D63494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09FDDB80-43BF-4A9F-A9B8-1CB6B7D63494}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

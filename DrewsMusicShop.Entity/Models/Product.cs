@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,12 +17,18 @@ namespace DrewsMusicShop.Entity
 
     }
 
-    public abstract class Product : IProduct
+    public abstract class Product : IProduct //, IEnumerable
     {
         public abstract int Id { get; set; }
         public abstract string ItemNumber { get; set; }
         public abstract string Company { get; set; }
         public abstract double Cost { get; set; }
+
+        //public IEnumerator GetEnumerator()
+        //{
+        //    return (IEnumerator) GetEnumerator();
+        //}
+
         public abstract bool ValidateProduct();
     }
 }

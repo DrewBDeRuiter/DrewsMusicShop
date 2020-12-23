@@ -77,10 +77,6 @@ D:\DrewsMusicShop\DrewsMusicShop\obj\Debug\DrewsMusicShop.Web.csproj.CoreCompile
 D:\DrewsMusicShop\DrewsMusicShop\obj\Debug\DrewsMusicShop.Web.csproj.CopyComplete
 D:\DrewsMusicShop\DrewsMusicShop\obj\Debug\DrewsMusicShop.dll
 D:\DrewsMusicShop\DrewsMusicShop\obj\Debug\DrewsMusicShop.pdb
-D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Web\obj\Debug\DrewsMusicShop.Web.csprojAssemblyReference.cache
-D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Web\obj\Debug\DrewsMusicShop.Web.csproj.CoreCompileInputs.cache
-D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Web\obj\Debug\DrewsMusicShop.dll
-D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Web\obj\Debug\DrewsMusicShop.pdb
 D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Web\bin\DrewsMusicShop.dll.config
 D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Web\bin\DrewsMusicShop.dll
 D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Web\bin\DrewsMusicShop.pdb
@@ -187,4 +183,8 @@ D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Web\bin\System.Web.WebPages
 D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Web\bin\Newtonsoft.Json.xml
 D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Web\bin\Antlr3.Runtime.pdb
 D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Web\obj\Debug\DrewsMusicShop.Web.csprojAssemblyReference.cache
+D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Web\obj\Debug\DrewsMusicShop.Web.csproj.CoreCompileInputs.cache
 D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Web\obj\Debug\DrewsMusicShop.Web.csproj.CopyComplete
+D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Web\obj\Debug\DrewsMusicShop.dll
+D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Web\obj\Debug\DrewsMusicShop.pdb

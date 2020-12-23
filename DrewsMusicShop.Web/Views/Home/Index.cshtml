@@ -1,19 +1,12 @@
-﻿
+﻿<div class="row"><my-app>loading...</my-app></div>
 
-<div class="row">
-    <div class="col-md-12">
-        <my-app>Welcome guitar shop</my-app>
-    </div>
-</div>
+<!-- Polyfill(s) for older browsers -->
+<script src="/node_modules/core-js/client/shim.min.js"></script>
 
-@section scripts{
-    <script src="/node_modules/core-js/client/shim.min.js"></script>
+<script src="/node_modules/zone.js/dist/zone.js"></script>
+<script src="/node_modules/systemjs/dist/system.src.js"></script>
 
-    <script src="/node_modules/zone.js/dist/zone.js"></script>
-    <script src="/node_modules/systemjs/dist/system.src.js"></script>
-
-    <script src="/src/systemjs.config.js"></script>
-    <script>
-      System.import('/src/main.js').catch(function(err){ console.error(err); });
-    </script>
-}
+<script src="/src/systemjs.config.js"></script>
+<script>
+    System.import('/src/main.js').catch(function (err) { console.error(err); });
+</script>

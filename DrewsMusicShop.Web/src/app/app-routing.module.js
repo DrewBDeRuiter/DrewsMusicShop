@@ -9,16 +9,15 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.AppRoutingModule = void 0;
 var core_1 = require("@angular/core");
 var router_1 = require("@angular/router");
-var welcome_component_1 = require("./Home/welcome.component");
+//import { ProductListComponent } from './product/product-list.component';
 var routes = [
-    {
-        path: 'Home',
-        component: welcome_component_1.WelcomeComponent
-    },
-    {
-    //path: 'Product/Product',
-    //redirectTo: 'productList'
-    }
+//{
+//    path: 'productList',
+//    component: ProductListComponent},
+//{
+//    path: 'Product/Product',
+//    redirectTo: 'productList'
+//}
 ];
 var AppRoutingModule = /** @class */ (function () {
     function AppRoutingModule() {

@@ -6,7 +6,6 @@ D:\DrewsMusicShop\DrewsMusicShop.Entity\obj\Debug\DrewsMusicShop.Entity.dll
 D:\DrewsMusicShop\DrewsMusicShop.Entity\obj\Debug\DrewsMusicShop.Entity.pdb
 D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Entity\bin\Debug\DrewsMusicShop.Entity.dll
 D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Entity\bin\Debug\DrewsMusicShop.Entity.pdb
-D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Entity\obj\Debug\DrewsMusicShop.Entity.csprojAssemblyReference.cache
 D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Entity\obj\Debug\DrewsMusicShop.Entity.csproj.CoreCompileInputs.cache
 D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Entity\obj\Debug\DrewsMusicShop.Entity.dll
 D:\github\DrewBDeRuiter\DrewMusicShop\DrewsMusicShop.Entity\obj\Debug\DrewsMusicShop.Entity.pdb

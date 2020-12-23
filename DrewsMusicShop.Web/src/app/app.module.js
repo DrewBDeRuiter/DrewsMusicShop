@@ -10,16 +10,14 @@ exports.AppModule = void 0;
 var core_1 = require("@angular/core");
 var platform_browser_1 = require("@angular/platform-browser");
 var app_component_1 = require("./app.component");
-var app_routing_module_1 = require("./app-routing.module");
-var welcome_component_1 = require("./Home/welcome.component");
 var AppModule = /** @class */ (function () {
     function AppModule() {
     }
     AppModule = __decorate([
         core_1.NgModule({
-            imports: [platform_browser_1.BrowserModule, app_routing_module_1.AppRoutingModule],
-            declarations: [app_component_1.AppComponent, welcome_component_1.WelcomeComponent],
-            bootstrap: [welcome_component_1.WelcomeComponent]
+            imports: [platform_browser_1.BrowserModule],
+            declarations: [app_component_1.AppComponent],
+            bootstrap: [app_component_1.AppComponent]
         })
     ], AppModule);
     return AppModule;
